@@ -1,4 +1,4 @@
-You can simply run the app2.py in your local machine.
+1.You can simply run the app2.py in your local machine.
 
-For reference you can learn from the conversation.ipynb file
+2.For reference you can learn from the conversation.ipynb file
 
